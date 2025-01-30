@@ -1,3 +1,4 @@
 .st*
 .DS_Store
 .nomedia
+*.Identifier
